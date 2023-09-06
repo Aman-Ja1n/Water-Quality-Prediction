@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # # Water Quality Prediction
 
 # In[1]:
@@ -718,4 +715,4 @@ sns.barplot(x='Accuracy_score', y='Model', data=models)
 
 # Authored By:
 # 
-# **[Soumya Kushwaha](https://github.com/Soumya-Kushwaha)**
+# **[Aman Jain]**
